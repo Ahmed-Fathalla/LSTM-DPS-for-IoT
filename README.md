@@ -1,1 +1,1 @@
-#  Password for extracting "all-files" file is the Manuscript Number
+#  Password for extracting "all-files.rar" file is the Manuscript Number
