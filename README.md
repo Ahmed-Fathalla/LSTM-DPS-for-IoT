@@ -1,1 +1,1 @@
-# Password for extracting the "all-files.rar" file is the Manuscript Number
+# <p style="color:red">Password for extracting the "<B>all-files.rar</B>" file is the Manuscript Number</p>
