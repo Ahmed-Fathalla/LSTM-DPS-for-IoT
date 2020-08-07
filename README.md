@@ -1,1 +1,1 @@
-#  Password for extracting the file is the Manuscript Number
+#  Password for extracting "all-files" file is the Manuscript Number
