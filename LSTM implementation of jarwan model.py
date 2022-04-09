@@ -11,7 +11,8 @@ This script is the implementation of LSTM model descried in
       publisher={IEEE}
     }
 
-The implementation is done by following the model describtion illustrated in the original authors' paper (as it is not available by the original authors), we tried to implement the model as best as we could. Of note, we tried to contact the authors to get the original model script by they didnt reply us.    
+The implementation is done by following the model describtion illustrated in the original authors' paper (as it is not available by the original authors), we 
+tried to implement the model as best as we could. Of note, we tried to contact the authors to get the original model script by we got no reply.    
 '''
 
 
