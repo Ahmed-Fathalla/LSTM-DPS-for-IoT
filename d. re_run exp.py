@@ -2,7 +2,8 @@
 To re-run an experiment and get the same results reported in the paper (using the same model we got during our experiment):
     - "utils._experiment.re_run_experiment" make a run of the experiments using the same LSTM-DPS model we got during the experiment phases.
     - Select an Experiment form "Experiments output" directory to rerun the experiment and get the same score reported in the paper:
-        - for example, to rerun 'Experiments/Exp Benzene-DS Epsilon_0.002.pkl', where Benzene-DS dataset is used for error_threshols(epsilon)=0.002, make a call to "re_run_experiment" function with the following parameters, re_run_experiment( exp_id = 'Experiments/Exp Benzene-DS Epsilon_0.002.pkl' ).
+        - for example, to rerun 'Experiments/Exp Benzene-DS Epsilon_0.002.pkl', where Benzene-DS dataset is used for error_threshols(epsilon)=0.002, make a call 
+          to "re_run_experiment" function with the following parameters, re_run_experiment( exp_id = 'Experiments/Exp Benzene-DS Epsilon_0.002.pkl' ).
         
         The output will be as follows:
 
